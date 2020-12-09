@@ -10,7 +10,7 @@
 [1.2]: https://img.shields.io/static/v1?color=3578ea&label=%20&labelColor=3d6ecc&logo=facebook&logoColor=ffffff&message=Facebook&style=for-the-badge
 [1.3]: https://img.shields.io/static/v1?color=4aa0eb&label=%20&labelColor=548dcc&logo=twitter&logoColor=ffffff&message=Twitter&style=for-the-badge
 [1.5]: https://img.shields.io/twitter/follow/asahiocean?color=4aa0eb&label=&style=for-the-badge
-[insta-icon]: https://img.shields.io/static/v1?color=e86c2c&label=%20&labelColor=cc6733&logo=instagram&logoColor=ffffff&message=Instagram&style=for-the-badge
+[insta-icon]: https://img.shields.io/static/v1?color=d65a38&label=%20&labelColor=b54c2f&logo=instagram&logoColor=ffffff&message=Instagram&style=for-the-badge
 
 <!-- links -->
 [1]: https://bit.ly/asahiocean-linkedin
