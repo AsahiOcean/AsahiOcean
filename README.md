@@ -4,8 +4,8 @@
 [![facebook][facebook-badge]][facebook-url]
 [![twitter][twitter-badge]![twitter-follow][twitter-follow-badge]][twitter-url]
 [![instagram][instagram-badge]][instagram-url]
-
 [![gitlab][gitlab-badge]][gitlab-url]
+[![keybase][keybase-badge]][keybase-url]
 
 <!-- icons & badges -->
 [linkedin-badge]: https://img.shields.io/static/v1?color=2f72ac&label=%20&labelColor=396899&logo=linkedin&logoColor=ffffff&message=LinkedIn&style=for-the-badge
@@ -14,6 +14,7 @@
 [twitter-follow-badge]: https://img.shields.io/twitter/follow/asahiocean?color=4aa0eb&label=&style=for-the-badge
 [instagram-badge]: https://img.shields.io/static/v1?color=d65a38&label=%20&labelColor=b54c2f&logo=instagram&logoColor=ffffff&message=Instagram&style=for-the-badge
 [gitlab-badge]: https://img.shields.io/static/v1?color=363880&label=%20&labelColor=2b2d66&logo=gitlab&logoColor=ffffff&message=Gitlab&style=for-the-badge
+[keybase-badge]: https://img.shields.io/static/v1?color=3e66e2&label=%20&labelColor=163aa5&logo=keybase&logoColor=ffffff&message=Keybase&style=for-the-badge
 
 <!-- links / urls -->
 [linkedin-url]: https://bit.ly/asahiocean-linkedin
@@ -21,3 +22,4 @@
 [twitter-url]: https://bit.ly/asahiocean-twitter
 [instagram-url]: https://bit.ly/asahiocean-instagram
 [gitlab-url]: https://bit.ly/asahiocean-gitlab
+[keybase-url]: https://bit.ly/asahiocean-keybase
