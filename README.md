@@ -6,6 +6,7 @@
 [![instagram][instagram-badge]][instagram-url]
 [![gitlab][gitlab-badge]][gitlab-url]
 [![keybase][keybase-badge]][keybase-url]
+[![reddit][reddit-badge]][reddit-url]
 
 <!-- icons & badges -->
 [linkedin-badge]: https://img.shields.io/static/v1?color=2f72ac&label=%20&labelColor=396899&logo=linkedin&logoColor=ffffff&message=LinkedIn&style=for-the-badge
@@ -16,6 +17,9 @@
 [gitlab-badge]: https://img.shields.io/static/v1?color=363880&label=%20&labelColor=2b2d66&logo=gitlab&logoColor=ffffff&message=Gitlab&style=for-the-badge
 [keybase-badge]: https://img.shields.io/static/v1?color=3e66e2&label=%20&labelColor=163aa5&logo=keybase&logoColor=ffffff&message=Keybase&style=for-the-badge
 
+[reddit-badge]: https://img.shields.io/static/v1?color=ec5428&label=%20&labelColor=d44d24&logo=reddit&logoColor=ffffff&message=Reddit&style=for-the-badge
+
+
 <!-- links / urls -->
 [linkedin-url]: https://bit.ly/asahiocean-linkedin
 [facebook-url]: https://facebook.com/asahiocean.ceo
@@ -23,3 +27,4 @@
 [instagram-url]: https://bit.ly/asahiocean-instagram
 [gitlab-url]: https://bit.ly/asahiocean-gitlab
 [keybase-url]: https://bit.ly/asahiocean-keybase
+[reddit-url]: https://bit.ly/asahiocean-reddit
