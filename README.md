@@ -31,7 +31,7 @@
 [reddit-badge]: https://img.shields.io/static/v1?color=ec5428&label=%20&labelColor=d44d24&logo=reddit&logoColor=ffffff&message=Reddit&style=for-the-badge
 [discord-badge]: https://img.shields.io/discord/781120293620023316?color=4cc27d&label=%20&labelColor=778bd0&logo=discord&logoColor=ffffff&style=for-the-badge
 [spotify-badge]: https://img.shields.io/static/v1?color=65d36e&label=%20&labelColor=59ba61&logo=spotify&logoColor=ffffff&message=Spotify&style=for-the-badge
-[lastfm-badge]: https://i.postimg.cc/B6Xmmxb0/lastfm.png
+[lastfm-badge]: https://img.shields.io/static/v1?color=f23d33&label=%20&labelColor=d2322c&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAD1BMVEVhcAAAAADm5ub////z8/NuRTuJAAAAAXRSTlMAQObYZgAAALlJREFUeNrt1oEGA0EQg+Fl9v2fudB2yfg3ouhhAlTia6t7vVuTJ2YyqW9uiw2LkvgFlUBcBwVZZgJl8B7cKXAd3EQF1KMfD8k20PITAPpApyAg0LoTBDQOKA9AJQDOMqA8gIIaISCJgVUtDPBHkCQAE8kRyQARAImBfrnvFBCCAS+E30ESAsUAbsoJAujGXYb1DmzOS/LhmJsTTP+YFG6F/BlYvoXYu7shgueL6nFPONBvXkwmk7/mBUEHDmbmSQnAAAAAAElFTkSuQmCC&logoColor=ffffff&message=Last.fm&style=for-the-badge
 [patreon-badge]: https://img.shields.io/static/v1?color=ec5254&label=%20&labelColor=100f0d&logo=patreon&logoColor=ec5254&message=Patreon&style=for-the-badge
 [medium-badge]: https://img.shields.io/static/v1?color=292a2c&label=%20&labelColor=100f0d&logo=medium&logoColor=ffffff&message=Medium&style=for-the-badge
 [behance-badge]: https://img.shields.io/static/v1?color=1b5bf5&label=%20&labelColor=164bcc&logo=behance&logoColor=ffffff&message=Behance&style=for-the-badge
