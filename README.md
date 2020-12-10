@@ -12,6 +12,7 @@
 [![lastfm][lastfm-badge]][lastfm-url]
 [![patreon][patreon-badge]][patreon-url]
 [![medium][medium-badge]][medium-url]
+[![behance][behance-badge]][behance-url]
 
 <!-- icons & badges -->
 [linkedin-badge]: https://img.shields.io/static/v1?color=2f72ac&label=%20&labelColor=396899&logo=linkedin&logoColor=ffffff&message=LinkedIn&style=for-the-badge
@@ -27,6 +28,7 @@
 [lastfm-badge]: https://i.postimg.cc/B6Xmmxb0/lastfm.png
 [patreon-badge]: https://img.shields.io/static/v1?color=ec5254&label=%20&labelColor=100f0d&logo=patreon&logoColor=ec5254&message=Patreon&style=for-the-badge
 [medium-badge]: https://img.shields.io/static/v1?color=292a2c&label=%20&labelColor=100f0d&logo=medium&logoColor=ffffff&message=Medium&style=for-the-badge
+[behance-badge]: https://img.shields.io/static/v1?color=1b5bf5&label=%20&labelColor=164bcc&logo=behance&logoColor=ffffff&message=Behance&style=for-the-badge
 
 <!-- links / urls -->
 [linkedin-url]: https://bit.ly/asahiocean-linkedin
@@ -41,3 +43,4 @@
 [lastfm-url]: https://bit.ly/asahiocean-lastfm
 [patreon-url]: https://bit.ly/asahiocean-patreon
 [medium-url]: https://bit.ly/asahiocean-medium
+[behance-url]: https://bit.ly/asahiocean-behance
