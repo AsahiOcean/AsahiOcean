@@ -1,22 +1,5 @@
 ### Hi, username 👋
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-<details>
-  <summary>Spoiler warning</summary>
-  
-  Spoiler text. Note that it's important to have a space after the summary tag. You should be able to write any markdown you want inside the `<details>` tag... just make sure you close `<details>` afterward.
-  
-  ```javascript
-  console.log("I'm a code block!");
-  ```
-  
-</details>
-
 [![linkedin][linkedin-badge]][linkedin-url]
 [![facebook][facebook-badge]][facebook-url]
 [![twitter][twitter-badge]![twitter-follow][twitter-follow-badge]][twitter-url]
