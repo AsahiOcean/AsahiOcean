@@ -14,6 +14,7 @@
 [![medium][medium-badge]][medium-url]
 [![behance][behance-badge]][behance-url]
 [![steam][steam-badge]][steam-url]
+[![twitch][twitch-badge]][twitch-url]
 
 <!-- icons & badges -->
 [linkedin-badge]: https://img.shields.io/static/v1?color=2f72ac&label=%20&labelColor=396899&logo=linkedin&logoColor=ffffff&message=LinkedIn&style=for-the-badge
@@ -31,6 +32,7 @@
 [medium-badge]: https://img.shields.io/static/v1?color=292a2c&label=%20&labelColor=100f0d&logo=medium&logoColor=ffffff&message=Medium&style=for-the-badge
 [behance-badge]: https://img.shields.io/static/v1?color=1b5bf5&label=%20&labelColor=164bcc&logo=behance&logoColor=ffffff&message=Behance&style=for-the-badge
 [steam-badge]: https://img.shields.io/static/v1?color=333740&label=%20&labelColor=000000&logo=steam&logoColor=ffffff&message=Steam&style=for-the-badge
+[twitch-badge]: https://img.shields.io/static/v1?color=5e459f&label=%20&labelColor=8652f6&logo=twitch&logoColor=ffffff&message=Twitch&style=for-the-badge
 
 <!-- links / urls -->
 [linkedin-url]: https://bit.ly/asahiocean-linkedin
@@ -47,5 +49,4 @@
 [medium-url]: https://bit.ly/asahiocean-medium
 [behance-url]: https://bit.ly/asahiocean-behance
 [steam-url]: https://bit.ly/asahiocean-steam
-
-
+[twitch-url]: https://bit.ly/asahiocean-twitch
