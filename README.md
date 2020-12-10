@@ -1,4 +1,4 @@
-### Hi, username 👋
+### Hi, username <img src="https://art.pixilart.com/66f782f8638da9b.gif" width="30px">
 
 [![linkedin][linkedin-badge]][linkedin-url]
 [![facebook][facebook-badge]][facebook-url]
