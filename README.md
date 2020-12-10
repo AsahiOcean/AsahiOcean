@@ -7,7 +7,6 @@
 [![gitlab][gitlab-badge]][gitlab-url]
 [![keybase][keybase-badge]][keybase-url]
 [![reddit][reddit-badge]][reddit-url]
-[![discord][discord-badge]][discord-url]
 [![spotify][spotify-badge]][spotify-url]
 [![lastfm][lastfm-badge]][lastfm-url]
 [![patreon][patreon-badge]][patreon-url]
@@ -18,9 +17,12 @@
 [![stackoverflow][stackoverflow-badge]][stackoverflow-url]
 [![youtube][youtube-badge]][youtube-url]
 [![tiktok][tiktok-badge]][tiktok-url]
-[![telegram-chat][telegram-chat-badge]][telegram-chat-url]
 [![kinopoisk][kinopoisk-badge]][kinopoisk-url]
 [![imdb][imdb-badge]][imdb-url]
+
+#### Присоединяйся к нам | Join us:
+[![discord][discord-badge]][discord-url]
+[![telegram-chat][telegram-chat-badge]][telegram-chat-url]
 
 <!-- icons & badges -->
 [linkedin-badge]: https://img.shields.io/static/v1?color=2f72ac&label=%20&labelColor=396899&logo=linkedin&logoColor=ffffff&message=LinkedIn&style=for-the-badge
@@ -42,7 +44,7 @@
 [stackoverflow-badge]: https://img.shields.io/static/v1?color=eda640&label=%20&labelColor=e5853d&logo=stackoverflow&logoColor=ffffff&message=StackOverflow&style=for-the-badge
 [youtube-badge]: https://img.shields.io/static/v1?color=bf281d&label=%20&labelColor=ea3223&logo=youtube&logoColor=ffffff&message=YouTube&style=for-the-badge
 [tiktok-badge]: https://img.shields.io/static/v1?color=141518&label=%20&labelColor=000000&logo=tiktok&logoColor=ffffff&message=TikTok&style=for-the-badge
-[telegram-chat-badge]: https://img.shields.io/static/v1?color=438ebf&label=%20&labelColor=3181b0&logo=telegram&logoColor=ffffff&message=Telegram&style=for-the-badge
+[telegram-chat-badge]: https://img.shields.io/static/v1?color=438ebf&label=%20&labelColor=3181b0&logo=telegram&logoColor=ffffff&message=Telegram%20Chat&style=for-the-badge
 [kinopoisk-badge]: https://img.shields.io/static/v1?color=ee742e&label=%20&labelColor=cc6427&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAANlBMVEVHcEz///////////////////////7///////////////////7///////3///////7///////+zGaPKAAAAEXRSTlMAdq8qX/YNBMrY6KROGIJCjQ4MJ34AAAI/SURBVHhetVfZjsMgDOTG5kjC///sbrVRYCRM2Uqdx4oZ+ZjasZJQy2GI2y+YzFGq+hfsxQ3R+LK77KC5TcE67NAP30T4451EdKktkVxc5k7tLWhRC+fbBryTwr/aJq445ZsxVZMzyfGYuOZzidAQQUHk50ff8rbCNfBHQyexDsh3Q/rglbNJgF7YIVmN0iR2c/BDHF9VFNCyo2L379hAoEMOYhJhrBQrRAUOc5pU62iyQLSdQO7FqPrROO4A0C5h0h+sbsg3wYdZmRwKmNnvGTQZBQj4dmYvFW8Ow5OZEQLdfI/dLTfBgokhWMy2GQWIqRt6MkFzvT3AENakNNz7DPBGO3fRNCosY1WlydgQKOgiGZdC0OMlsyZ6P2tuN59RtKJTibH8vThB4Oiu4RU/dC9wmM4PVm2BMromd4XKnYACpE9rnbn5Pt6u8biSztTmAumEDYcCLxhn7ampM1CAK1gYUpCheDYkVWAoogzubTxwFEIbZZAyfboACIwkwjyWIGlVrXE8FcpK3FVrq9QNAbqc02aaTH0GilHSRuLbHjVPmtCTTVGYxjks0rqGoVqAXz38oaRFaYexzhBChie4hTsYZPOshGbZG92nC2arpVkYgO8DjpeWdH0JOoIkAQwBTNZ7YniyFEhhw3WnQiQc9b24ErT8uUERhqQAkvyJ80O5nRywWm7z35sq2EtcVVHcUGyfN3njY1m+c2Jh5O8rNE85m9SA/4WD44OT59Oj63tn3/7h+fnp+73j+/Pz/wdmjpsH5OfhygAAAABJRU5ErkJggg==&logoColor=ffffff&message=Kinopoisk&style=for-the-badge
 [imdb-badge]: https://img.shields.io/static/v1?color=121212&label=%20&labelColor=f3b944&logo=imdb&logoColor=ffffff&message=IMDb&style=for-the-badge
 
