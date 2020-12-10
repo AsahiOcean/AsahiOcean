@@ -1,7 +1,6 @@
 ### Hi, username 👋
 
-### Соцсети
-###### Social network:
+###### Соцсети | Social network:
 [![linkedin][linkedin-badge]][linkedin-url]
 [![facebook][facebook-badge]][facebook-url]
 [![twitter][twitter-badge]][twitter-url]
@@ -19,18 +18,18 @@
 [![gitlab][gitlab-badge]][gitlab-url]
 [![stackoverflow][stackoverflow-badge]][stackoverflow-url]
 
-### Поддержать меня можете здесь | You can support me here
+###### Поддержать меня можете здесь | You can support me here
 [![patreon][patreon-badge]][patreon-url]
 
-#### Музыка | Music
+###### Музыка | Music
 [![spotify][spotify-badge]][spotify-url]
 [![lastfm][lastfm-badge]][lastfm-url]
 
-#### Кино | Movies
+###### Кино | Movies
 [![kinopoisk][kinopoisk-badge]][kinopoisk-url]
 [![imdb][imdb-badge]][imdb-url]
 
-#### Присоединяйся к нам | Join us:
+###### Присоединяйся к нам | Join us:
 [![discord][discord-badge]][discord-url]
 [![telegram-chat][telegram-chat-badge]][telegram-chat-url]
 
