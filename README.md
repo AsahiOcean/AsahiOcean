@@ -2,7 +2,7 @@
 
 [![linkedin][linkedin-badge]][linkedin-url]
 [![facebook][facebook-badge]][facebook-url]
-[![twitter][twitter-badge]![twitter-follow][twitter-follow-badge]][twitter-url]
+[![twitter][twitter-badge]][twitter-url]
 [![instagram][instagram-badge]][instagram-url]
 [![gitlab][gitlab-badge]][gitlab-url]
 [![keybase][keybase-badge]][keybase-url]
@@ -62,3 +62,7 @@
 [youtube-url]: https://bit.ly/asahiocean-youtube
 [tiktok-url]: https://bit.ly/asahiocean-tiktok
 [telegram-chat-url]: https://bit.ly/asahichat
+
+<!-- comments
+![twitter-follow][twitter-follow-badge]
+-->
