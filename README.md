@@ -1,22 +1,32 @@
 ### Hi, username 👋
 
+### Соцсети
+###### Social network:
 [![linkedin][linkedin-badge]][linkedin-url]
 [![facebook][facebook-badge]][facebook-url]
 [![twitter][twitter-badge]][twitter-url]
 [![instagram][instagram-badge]][instagram-url]
-[![gitlab][gitlab-badge]][gitlab-url]
 [![keybase][keybase-badge]][keybase-url]
 [![reddit][reddit-badge]][reddit-url]
-[![spotify][spotify-badge]][spotify-url]
-[![lastfm][lastfm-badge]][lastfm-url]
-[![patreon][patreon-badge]][patreon-url]
 [![medium][medium-badge]][medium-url]
 [![behance][behance-badge]][behance-url]
 [![steam][steam-badge]][steam-url]
-[![twitch][twitch-badge]][twitch-url]
-[![stackoverflow][stackoverflow-badge]][stackoverflow-url]
+
 [![youtube][youtube-badge]][youtube-url]
+[![twitch][twitch-badge]][twitch-url]
 [![tiktok][tiktok-badge]][tiktok-url]
+
+[![gitlab][gitlab-badge]][gitlab-url]
+[![stackoverflow][stackoverflow-badge]][stackoverflow-url]
+
+### Поддержать меня можете здесь | You can support me here
+[![patreon][patreon-badge]][patreon-url]
+
+#### Музыка | Music
+[![spotify][spotify-badge]][spotify-url]
+[![lastfm][lastfm-badge]][lastfm-url]
+
+#### Кино | Movies
 [![kinopoisk][kinopoisk-badge]][kinopoisk-url]
 [![imdb][imdb-badge]][imdb-url]
 
