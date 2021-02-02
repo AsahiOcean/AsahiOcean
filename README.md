@@ -49,7 +49,7 @@
 [imdb-badge]: https://img.shields.io/static/v1?color=121212&label=%20&labelColor=f3b944&logo=imdb&logoColor=ffffff&message=IMDb&style=for-the-badge
 
 <!-- links / urls -->
-[linkedin-url]: https://bit.ly/asahiocean-linkedin
+[linkedin-url]: https://www.linkedin.com/in/asahiocean
 [facebook-url]: https://facebook.com/asahiocean.ceo
 [twitter-url]: https://bit.ly/asahiocean-twitter
 [instagram-url]: https://bit.ly/asahiocean-instagram
