@@ -20,6 +20,7 @@
 [![kinopoisk][kinopoisk-badge]][kinopoisk-url]
 [![imdb][imdb-badge]][imdb-url]
 [![giphy][giphy-badge]][giphy-url]
+[![tumblr][tumblr-badge]][tumblr-url]
 
 #### Присоединяйся к нам | Join us:
 [![discord][discord-badge]][discord-url]
@@ -49,6 +50,7 @@
 [kinopoisk-badge]: https://img.shields.io/static/v1?color=ee742e&label=%20&labelColor=cc6427&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAANlBMVEVHcEz///////////////////////7///////////////////7///////3///////7///////+zGaPKAAAAEXRSTlMAdq8qX/YNBMrY6KROGIJCjQ4MJ34AAAI/SURBVHhetVfZjsMgDOTG5kjC///sbrVRYCRM2Uqdx4oZ+ZjasZJQy2GI2y+YzFGq+hfsxQ3R+LK77KC5TcE67NAP30T4451EdKktkVxc5k7tLWhRC+fbBryTwr/aJq445ZsxVZMzyfGYuOZzidAQQUHk50ff8rbCNfBHQyexDsh3Q/rglbNJgF7YIVmN0iR2c/BDHF9VFNCyo2L379hAoEMOYhJhrBQrRAUOc5pU62iyQLSdQO7FqPrROO4A0C5h0h+sbsg3wYdZmRwKmNnvGTQZBQj4dmYvFW8Ow5OZEQLdfI/dLTfBgokhWMy2GQWIqRt6MkFzvT3AENakNNz7DPBGO3fRNCosY1WlydgQKOgiGZdC0OMlsyZ6P2tuN59RtKJTibH8vThB4Oiu4RU/dC9wmM4PVm2BMromd4XKnYACpE9rnbn5Pt6u8biSztTmAumEDYcCLxhn7ampM1CAK1gYUpCheDYkVWAoogzubTxwFEIbZZAyfboACIwkwjyWIGlVrXE8FcpK3FVrq9QNAbqc02aaTH0GilHSRuLbHjVPmtCTTVGYxjks0rqGoVqAXz38oaRFaYexzhBChie4hTsYZPOshGbZG92nC2arpVkYgO8DjpeWdH0JOoIkAQwBTNZ7YniyFEhhw3WnQiQc9b24ErT8uUERhqQAkvyJ80O5nRywWm7z35sq2EtcVVHcUGyfN3njY1m+c2Jh5O8rNE85m9SA/4WD44OT59Oj63tn3/7h+fnp+73j+/Pz/wdmjpsH5OfhygAAAABJRU5ErkJggg==&logoColor=ffffff&message=Kinopoisk&style=for-the-badge
 [imdb-badge]: https://img.shields.io/static/v1?color=121212&label=%20&labelColor=f3b944&logo=imdb&logoColor=ffffff&message=IMDb&style=for-the-badge
 [giphy-badge]: https://img.shields.io/static/v1?color=181818&label=%20&labelColor=6363f6&logo=giphy&logoColor=ffffff&message=GIPHY&style=for-the-badge
+[tumblr-badge]: https://img.shields.io/static/v1?color=051933&label=%20&labelColor=0b2b5e&logo=tumblr&logoColor=f2f2f2&message=Tumblr&style=for-the-badge
 
 <!-- links / urls -->
 [linkedin-url]: https://www.linkedin.com/in/asahiocean
@@ -73,6 +75,7 @@
 [kinopoisk-url]: https://bit.ly/3qM1yz9
 [imdb-url]: https://imdb.to/33Zzu1u
 [giphy-url]: https://bit.ly/3b3llTP
+[tumblr-url]: https://bit.ly/373KEnZ
 
 <!-- comments
 ![twitter-follow][twitter-follow-badge]
