@@ -22,7 +22,7 @@
 [![giphy][giphy-badge]][giphy-url]
 [![tumblr][tumblr-badge]][tumblr-url]
 
-#### Присоединяйся к нам | Join us:
+#### Join us:
 [![discord][discord-badge]][discord-url]
 [![telegram-chat][telegram-chat-badge]][telegram-chat-url]
 
