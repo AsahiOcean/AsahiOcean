@@ -80,3 +80,11 @@
 <!-- comments
 ![twitter-follow][twitter-follow-badge]
 -->
+
+#### Donate:
+**Bitcoin:** 1QfTWdPMj1u3k2bCdLowZVeD1aXy538kf<br>
+**Ethereum:** 0xe0e2B13ADa33dC3Cd49E4f01ecECB228F44f6921<br>
+**PayPal:** [paypal.me/asahiocean](https://paypal.me/asahiocean)<br>
+**WebMoney:** Z988615298990<br>
+**Яндекс.Деньги (ЮMoney):** 4100116243865586<br>
+**Tinkoff Bank:** 5536913791665926<br>
