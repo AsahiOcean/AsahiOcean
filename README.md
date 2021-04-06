@@ -52,6 +52,8 @@
 [giphy-badge]: https://img.shields.io/static/v1?color=181818&label=%20&labelColor=6363f6&logo=giphy&logoColor=ffffff&message=GIPHY&style=for-the-badge
 [tumblr-badge]: https://img.shields.io/static/v1?color=051933&label=%20&labelColor=0b2b5e&logo=tumblr&logoColor=f2f2f2&message=Tumblr&style=for-the-badge
 
+[tinkoff-favicon]: https://www.google.com/s2/favicons?domain=tinkoff.ru
+
 <!-- links / urls -->
 [linkedin-url]: https://www.linkedin.com/in/asahiocean
 [facebook-url]: https://facebook.com/asahiocean.ceo
