@@ -58,7 +58,7 @@
 [linkedin-url]: https://www.linkedin.com/in/asahiocean
 [facebook-url]: https://facebook.com/asahiocean.ceo
 [twitter-url]: https://twitter.com/asahiocean
-[instagram-url]: https://bit.ly/asahiocean-instagram
+[instagram-url]: https://instagram.com/asahiocean
 [gitlab-url]: https://bit.ly/asahiocean-gitlab
 [keybase-url]: https://bit.ly/asahiocean-keybase
 [reddit-url]: https://bit.ly/asahiocean-reddit
