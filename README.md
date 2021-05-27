@@ -60,7 +60,7 @@
 [twitter-url]: https://twitter.com/asahiocean
 [instagram-url]: https://instagram.com/asahiocean
 [gitlab-url]: https://gitlab.com/asahiocean
-[keybase-url]: https://bit.ly/asahiocean-keybase
+[keybase-url]: https://keybase.io/asahiocean
 [reddit-url]: https://bit.ly/asahiocean-reddit
 [discord-url]: https://bit.ly/asahiocean-discordserver
 [spotify-url]: https://bit.ly/asahiocean-spotify
