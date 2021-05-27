@@ -68,7 +68,7 @@
 [patreon-url]: https://patreon.com/asahiocean
 [medium-url]: https://asahiocean.medium.com
 [behance-url]: https://behance.net/asahiocean
-[steam-url]: https://bit.ly/asahiocean-steam
+[steam-url]: https://steamcommunity.com/id/asahiocean
 [twitch-url]: https://bit.ly/asahiocean-twitch
 [stackoverflow-url]: https://bit.ly/asahiocean-stackoverflow
 [youtube-url]: https://bit.ly/asahiocean-youtube
