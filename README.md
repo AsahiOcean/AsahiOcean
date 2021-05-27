@@ -71,7 +71,7 @@
 [steam-url]: https://steamcommunity.com/id/asahiocean
 [twitch-url]: https://twitch.tv/asahiocean
 [stackoverflow-url]: https://stackoverflow.com/users/14681972/asahiocean
-[youtube-url]: https://www.youtube.com/channel/UCab-c2TLzFA0uEM_Bzn0Jmw
+[youtube-url]: https://youtube.com/channel/UCab-c2TLzFA0uEM_Bzn0Jmw
 [tiktok-url]: https://bit.ly/asahiocean-tiktok
 [telegram-chat-url]: https://bit.ly/asahichat
 [kinopoisk-url]: https://bit.ly/3qM1yz9
