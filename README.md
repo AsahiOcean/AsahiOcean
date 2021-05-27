@@ -69,7 +69,7 @@
 [medium-url]: https://asahiocean.medium.com
 [behance-url]: https://behance.net/asahiocean
 [steam-url]: https://steamcommunity.com/id/asahiocean
-[twitch-url]: https://bit.ly/asahiocean-twitch
+[twitch-url]: https://twitch.tv/asahiocean
 [stackoverflow-url]: https://bit.ly/asahiocean-stackoverflow
 [youtube-url]: https://bit.ly/asahiocean-youtube
 [tiktok-url]: https://bit.ly/asahiocean-tiktok
