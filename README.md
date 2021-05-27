@@ -73,8 +73,8 @@
 [stackoverflow-url]: https://stackoverflow.com/users/14681972/asahiocean
 [youtube-url]: https://youtube.com/channel/UCab-c2TLzFA0uEM_Bzn0Jmw
 [tiktok-url]: https://tiktok.com/@asahiocean
-[telegram-chat-url]: https://bit.ly/asahichat
-[kinopoisk-url]: https://bit.ly/3qM1yz9
+[telegram-chat-url]: https://t.me/asahichat
+[kinopoisk-url]: https://www.kinopoisk.ru/user/67399928
 [imdb-url]: https://imdb.to/33Zzu1u
 [giphy-url]: https://bit.ly/3b3llTP
 [tumblr-url]: https://bit.ly/373KEnZ
