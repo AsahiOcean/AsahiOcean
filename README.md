@@ -72,7 +72,7 @@
 [twitch-url]: https://twitch.tv/asahiocean
 [stackoverflow-url]: https://stackoverflow.com/users/14681972/asahiocean
 [youtube-url]: https://youtube.com/channel/UCab-c2TLzFA0uEM_Bzn0Jmw
-[tiktok-url]: https://bit.ly/asahiocean-tiktok
+[tiktok-url]: https://tiktok.com/@asahiocean
 [telegram-chat-url]: https://bit.ly/asahichat
 [kinopoisk-url]: https://bit.ly/3qM1yz9
 [imdb-url]: https://imdb.to/33Zzu1u
