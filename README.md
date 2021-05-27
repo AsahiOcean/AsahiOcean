@@ -76,7 +76,7 @@
 [telegram-chat-url]: https://t.me/asahichat
 [kinopoisk-url]: https://kinopoisk.ru/user/67399928
 [imdb-url]: https://imdb.com/user/ur126652923
-[giphy-url]: https://bit.ly/3b3llTP
+[giphy-url]: https://giphy.com/channel/asahiocean
 [tumblr-url]: https://bit.ly/373KEnZ
 
 <!-- comments
