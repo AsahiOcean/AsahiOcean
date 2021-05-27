@@ -75,7 +75,7 @@
 [tiktok-url]: https://tiktok.com/@asahiocean
 [telegram-chat-url]: https://t.me/asahichat
 [kinopoisk-url]: https://kinopoisk.ru/user/67399928
-[imdb-url]: https://imdb.to/33Zzu1u
+[imdb-url]: https://imdb.com/user/ur126652923
 [giphy-url]: https://bit.ly/3b3llTP
 [tumblr-url]: https://bit.ly/373KEnZ
 
