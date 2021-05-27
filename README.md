@@ -77,7 +77,7 @@
 [kinopoisk-url]: https://kinopoisk.ru/user/67399928
 [imdb-url]: https://imdb.com/user/ur126652923
 [giphy-url]: https://giphy.com/channel/asahiocean
-[tumblr-url]: https://bit.ly/373KEnZ
+[tumblr-url]: https://asahiocean.tumblr.com/
 
 <!-- comments
 ![twitter-follow][twitter-follow-badge]
