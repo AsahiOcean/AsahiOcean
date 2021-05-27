@@ -65,7 +65,7 @@
 [discord-url]: https://bit.ly/asahiocean-discordserver
 [spotify-url]: https://open.spotify.com/user/313zovltgvfg73t3a3rw77cpw25q
 [lastfm-url]: https://last.fm/user/asahiocean
-[patreon-url]: https://bit.ly/asahiocean-patreon
+[patreon-url]: https://patreon.com/asahiocean
 [medium-url]: https://bit.ly/asahiocean-medium
 [behance-url]: https://bit.ly/asahiocean-behance
 [steam-url]: https://bit.ly/asahiocean-steam
