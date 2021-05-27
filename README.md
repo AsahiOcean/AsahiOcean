@@ -59,7 +59,7 @@
 [facebook-url]: https://facebook.com/asahiocean.ceo
 [twitter-url]: https://twitter.com/asahiocean
 [instagram-url]: https://instagram.com/asahiocean
-[gitlab-url]: https://bit.ly/asahiocean-gitlab
+[gitlab-url]: https://gitlab.com/asahiocean
 [keybase-url]: https://bit.ly/asahiocean-keybase
 [reddit-url]: https://bit.ly/asahiocean-reddit
 [discord-url]: https://bit.ly/asahiocean-discordserver
