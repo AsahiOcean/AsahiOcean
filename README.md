@@ -63,7 +63,7 @@
 [keybase-url]: https://keybase.io/asahiocean
 [reddit-url]: https://reddit.com/user/asahiocean
 [discord-url]: https://bit.ly/asahiocean-discordserver
-[spotify-url]: https://bit.ly/asahiocean-spotify
+[spotify-url]: https://open.spotify.com/user/313zovltgvfg73t3a3rw77cpw25q
 [lastfm-url]: https://bit.ly/asahiocean-lastfm
 [patreon-url]: https://bit.ly/asahiocean-patreon
 [medium-url]: https://bit.ly/asahiocean-medium
