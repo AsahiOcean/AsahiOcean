@@ -55,7 +55,7 @@
 [tinkoff-favicon]: https://www.google.com/s2/favicons?domain=tinkoff.ru
 
 <!-- links / urls -->
-[linkedin-url]: https://www.linkedin.com/in/asahiocean
+[linkedin-url]: https://linkedin.com/in/asahiocean
 [facebook-url]: https://facebook.com/asahiocean.ceo
 [twitter-url]: https://twitter.com/asahiocean
 [instagram-url]: https://instagram.com/asahiocean
