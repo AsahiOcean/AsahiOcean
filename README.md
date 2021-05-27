@@ -70,7 +70,7 @@
 [behance-url]: https://behance.net/asahiocean
 [steam-url]: https://steamcommunity.com/id/asahiocean
 [twitch-url]: https://twitch.tv/asahiocean
-[stackoverflow-url]: https://bit.ly/asahiocean-stackoverflow
+[stackoverflow-url]: https://stackoverflow.com/users/14681972/asahiocean
 [youtube-url]: https://bit.ly/asahiocean-youtube
 [tiktok-url]: https://bit.ly/asahiocean-tiktok
 [telegram-chat-url]: https://bit.ly/asahichat
