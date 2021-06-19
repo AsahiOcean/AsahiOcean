@@ -56,7 +56,7 @@
 
 <!-- links / urls -->
 [linkedin-url]: https://linkedin.com/in/asahiocean
-[facebook-url]: https://facebook.com/asahiocean.ceo
+[facebook-url]: https://facebook.com/asahiocean
 [twitter-url]: https://twitter.com/asahiocean
 [instagram-url]: https://instagram.com/asahiocean
 [gitlab-url]: https://gitlab.com/asahiocean
