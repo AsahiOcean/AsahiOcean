@@ -88,4 +88,4 @@
 **PayPal:** [paypal.me/asahiocean](https://paypal.me/asahiocean)<br>
 **WebMoney:** Z988615298990<br>
 **YooMoney (Яндекс.Деньги):** [4100116243865586](https://yoomoney.ru/to/4100116243865586)<br>
-**Tinkoff Bank:** 5536913791665926<br>
+**Tinkoff Bank:** 5536 9137 9166 5926<br>
