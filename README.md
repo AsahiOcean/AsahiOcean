@@ -92,7 +92,7 @@
 </div>
 
 <div id="keys" class="keys" align="left" style="vertical-align: middle; align-items: center;">
-<img src="https://raw.githubusercontent.com/asahiocean/asahiocean.github.io/master/Helpers/Icons/keys.gif" width="46" align="center"/>
+<img src="https://raw.githubusercontent.com/asahiocean/asahiocean.github.io/master/Helpers/Icons/keys.gif" width="44" height="44" align="center"/>
 <!-- PGP PUBLIC KEY -->
-<a href="https://asahiocean.github.io/gpg.html"><img style="vspace="0" hspace="5" border="0";" src="https://raw.githubusercontent.com/asahiocean/asahiocean.github.io/master/Helpers/Icons/gpg.png" width="40" align="center"/></a>
+<a href="https://asahiocean.github.io/gpg.html"><img style="vspace="0" hspace="5" border="0";" src="https://raw.githubusercontent.com/asahiocean/asahiocean.github.io/master/Helpers/Icons/gpg.png" width="44" align="center"/></a>
 </div>
