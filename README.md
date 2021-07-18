@@ -79,7 +79,7 @@
 [giphy-url]: https://giphy.com/channel/asahiocean
 [tumblr-url]: https://asahiocean.tumblr.com/
 
-<!-- comments
+<!--
 ![twitter-follow][twitter-follow-badge]
 -->
 ### Donate <img src="https://media.giphy.com/media/VwOnBRoXkqMsiB3rki/giphy.gif" width="24">
@@ -91,5 +91,7 @@
 **Tinkoff Bank:** 5536 9137 9166 5926<br>
 
 <div id="keys" class="keys" align="left" style="vertical-align: middle; align-items: center;">
-<img src="https://raw.githubusercontent.com/asahiocean/asahiocean.github.io/master/Helpers/Icons/keys.gif" width="50" align="center"/><a href="https://asahiocean.github.io/gpg.html"><img src="https://raw.githubusercontent.com/asahiocean/asahiocean.github.io/master/Helpers/Icons/gpg.png" width="40" align="center"/>
+<img src="https://raw.githubusercontent.com/asahiocean/asahiocean.github.io/master/Helpers/Icons/keys.gif" width="46" align="center" style="padding: 100px;"/>
+<!-- PGP PUBLIC KEY -->
+<a href="https://asahiocean.github.io/gpg.html"><img style="vspace="0" hspace="5" border="0";" src="https://raw.githubusercontent.com/asahiocean/asahiocean.github.io/master/Helpers/Icons/gpg.png" width="40" align="center"/></a>
 </div>
