@@ -95,6 +95,3 @@
 <img src="https://raw.githubusercontent.com/asahiocean/asahiocean.github.io/master/Helpers/Icons/keys.gif" width="64" align="center"/> [<img src="https://raw.githubusercontent.com/asahiocean/asahiocean.github.io/master/Helpers/Icons/gpg.png" width="40" align="center"/>](https://asahiocean.github.io/gpg.html)
 
 </div>
-
-
-
