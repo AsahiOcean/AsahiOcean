@@ -90,4 +90,11 @@
 **YooMoney (Яндекс.Деньги):** [4100116243865586](https://yoomoney.ru/to/4100116243865586)<br>
 **Tinkoff Bank:** 5536 9137 9166 5926<br>
 
-[<img src="https://raw.githubusercontent.com/asahiocean/asahiocean.github.io/master/Helpers/Icons/gpg_green.png" width="40"/>](https://asahiocean.github.io/gpg.html)
+<div class="keys">
+
+<img src="https://raw.githubusercontent.com/asahiocean/asahiocean.github.io/master/Helpers/Icons/keys.gif" width="64" align="center"/> [<img src="https://raw.githubusercontent.com/asahiocean/asahiocean.github.io/master/Helpers/Icons/gpg.png" width="40" align="center"/>](https://asahiocean.github.io/gpg.html)
+
+</div>
+
+
+
