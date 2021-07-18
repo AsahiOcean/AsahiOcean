@@ -91,5 +91,17 @@
 **Tinkoff Bank:** 5536 9137 9166 5926<br>
 
 <div id="keys" class="keys" align="left">
-<img src="https://raw.githubusercontent.com/asahiocean/asahiocean.github.io/master/Helpers/Icons/keys.gif" width="64" align="center"/><a href="https://asahiocean.github.io/gpg.html"><img src="https://raw.githubusercontent.com/asahiocean/asahiocean.github.io/master/Helpers/Icons/gpg.png" width="40" align="center"/>
+<img src="https://raw.githubusercontent.com/asahiocean/asahiocean.github.io/master/Helpers/Icons/keys.gif" width="50" align="center"/><a href="https://asahiocean.github.io/gpg.html"><img src="https://raw.githubusercontent.com/asahiocean/asahiocean.github.io/master/Helpers/Icons/gpg.png" width="40" align="center"/>
 </div>
+
+<!-- comments
+<table id="tableOfkeys" align="left" bordercolor="red" border="0" style="border-collapse: collapse;">
+<thead>
+  <tr valign="middle">
+    <th><img src="https://raw.githubusercontent.com/asahiocean/asahiocean.github.io/master/Helpers/Icons/keys.gif" alt="keysgif" width="50"></th>
+    <th><img src="https://raw.githubusercontent.com/asahiocean/asahiocean.github.io/master/Helpers/Icons/gpg.png" alt="gpgimage" width="40"></th>
+  </tr>
+</thead>
+</table>
+-->
+
