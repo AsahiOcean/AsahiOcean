@@ -83,11 +83,10 @@
 ![twitter-follow][twitter-follow-badge]
 -->
 
-<h4 align="left">
-<img src="https://raw.githubusercontent.com/asahiocean/asahiocean.github.io/master/Helpers/Icons/coin.gif" width="16" style="vspace="0" hspace="5" border="0";">
-<span>DONATE</span>
-</h4>
-<div align="left" style="float: left; line-height: 1;">
+<div>
+<img src="https://raw.githubusercontent.com/asahiocean/asahiocean.github.io/master/Helpers/Icons/coin.gif" width="16" height="16" style="vspace="0" hspace="5" border="0";">
+<img src="https://raw.githubusercontent.com/asahiocean/asahiocean.github.io/master/Helpers/Icons/donate.png" width="80" height="16">
+</div>
 <div>
 <span><strong>BTC:</strong> 1QfTWdPMj1u3k2bCdLowZVeD1aXy538kf</span><br><span><strong>ETH:</strong> 0xe0e2B13ADa33dC3Cd49E4f01ecECB228F44f6921</span><br><span><strong>PayPal:</strong> <a href="https://www.paypal.me/asahiocean">paypal.me/asahiocean</a></span><br><span><strong>WebMoney:</strong> Z988615298990</span><br><span><strong>ЮMoney:</strong> <a href="https://www.yoomoney.ru/to/4100116243865586">4100116243865586</a></span><br><span><strong>Tinkoff Bank:</strong> 5536 9137 9166 5926</span>
 </div>
