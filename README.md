@@ -82,12 +82,7 @@
 <!-- comments
 ![twitter-follow][twitter-follow-badge]
 -->
-
-<div id="donate" class="donate">
-  <img src="https://media.giphy.com/media/VwOnBRoXkqMsiB3rki/giphy.gif" width="32" style="vertical-align:middle" align="top"/>
-  <span style="vertical-align:middle"><b>Donate</b></span>
-</div>
-                                     
+### Donate <img src="https://media.giphy.com/media/VwOnBRoXkqMsiB3rki/giphy.gif" width="24">
 **BTC:** 1QfTWdPMj1u3k2bCdLowZVeD1aXy538kf<br>
 **ETH:** 0xe0e2B13ADa33dC3Cd49E4f01ecECB228F44f6921<br>
 **PayPal:** [paypal.me/asahiocean](https://paypal.me/asahiocean)<br>
@@ -95,7 +90,6 @@
 **YooMoney (Яндекс.Деньги):** [4100116243865586](https://yoomoney.ru/to/4100116243865586)<br>
 **Tinkoff Bank:** 5536 9137 9166 5926<br>
 
-<div id="keys" class="keys">
-<img src="https://raw.githubusercontent.com/asahiocean/asahiocean.github.io/master/Helpers/Icons/keys.gif" width="64" align="center"/> [<img src="https://raw.githubusercontent.com/asahiocean/asahiocean.github.io/master/Helpers/Icons/gpg.png" width="40" align="center"/>](https://asahiocean.github.io/gpg.html)
-
+<div id="keys" class="keys" align="left">
+<img src="https://raw.githubusercontent.com/asahiocean/asahiocean.github.io/master/Helpers/Icons/keys.gif" width="64" align="center"/><a href="https://asahiocean.github.io/gpg.html"><img src="https://raw.githubusercontent.com/asahiocean/asahiocean.github.io/master/Helpers/Icons/gpg.png" width="40" align="center"/>
 </div>
